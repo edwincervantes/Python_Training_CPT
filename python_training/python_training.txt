@@ -1,0 +1,10 @@
+This exercise is meant to help sharpen your programming skills and understanding of Python while seeing how Python can relate to Networking.
+*Add some socket Programing stuff
+
+1) Make a python script that outputs "Hello World"
+
+2) Make a python script that asks for your name and responds with "Hello <name>"
+
+3) Make a python script that outputs all the numbers from 0-1000
+
+4)
