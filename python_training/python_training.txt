@@ -7,4 +7,9 @@ This exercise is meant to help sharpen your programming skills and understanding
 
 3) Make a python script that outputs all the numbers from 0-1000
 
-4)
+4) Make a Python script call a function that prints out "The function is called" by passing in the string value.
+
+5) Make a Python script that can detect the OS and Platform of your device (HINT: Look at libraries to import)
+
+6) Make a Python script that asks for a list of grocery items' prices, and then asks for a percentage discount, and then calculates the total of the grocery bill after the discount.
+
